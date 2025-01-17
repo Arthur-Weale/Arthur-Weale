@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arthur-Clay-Weale
+- 👋 Hi, I’m @Arthur Weale
 - 👀 I’m interested in a lot of things, but i'm a beginner web development and i would like to study software development ...
 - 🌱 I’m currently learning web development especially HTML and CSS
 - 💞️ I’m looking to collaborate on not sure yet
