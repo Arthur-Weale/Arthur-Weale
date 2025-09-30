@@ -1,154 +1,21 @@
-🚀 ARTHUR WEALE: DIGITAL ALCHEMIST 🚀
-<div align="center">
-text
-01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001
-https://img.shields.io/badge/Matrix-00d4ff?style=for-the-badge&logo=matrix&logoColor=white
-https://img.shields.io/badge/DIGITAL_ALCHEMIST-ff00aa?style=for-the-badge&logo=atom&logoColor=white
-https://img.shields.io/badge/FULL_STACK_SORCERER-00ff88?style=for-the-badge&logo=wizard&logoColor=white
-
-</div>
-🌌 THE ORIGIN STORY 🌌
-<div align="center">
-javascript
-class ArthurWeale extends Developer {
-  constructor() {
-    super("Digital Alchemist");
-    this.passion = "Turning coffee into code ☕→💻";
-    this.mission = "Building digital empires across all platforms";
-    this.specialty = "Full-stack wizardry with extra sparkles ✨";
-  }
-  
-  async conquerWorld() {
-    while (true) {
-      await this.code();
-      await this.innovate();
-      await this.repeat();
-    }
-  }
-}
-</div>
-"If code was a superhero movie, I'd be the underdog turning into the ultimate avenger. No capes, just keyboards." 🦸‍♂️
-
-⚡ WEAPONS OF MASS CREATION ⚡
-<div align="center">
-🎨 FRONTEND FRENZY 🎨
-Technology	Level	Progress
-React ⚛️	Expert	https://img.shields.io/badge/90%2525-Expert-00d4ff?style=for-the-badge
-Vue.js 🌿	Advanced	https://img.shields.io/badge/80%2525-Advanced-00ff88?style=for-the-badge
-HTML/CSS/JS 🛠️	Master	https://img.shields.io/badge/95%2525-Master-ff00aa?style=for-the-badge
-Tailwind CSS 💨	Advanced	https://img.shields.io/badge/85%2525-Advanced-ffaa00?style=for-the-badge
-🛡️ BACKEND BOSS MODE 🛡️
-Technology	Level	Progress
-Node.js 🚀	Expert	https://img.shields.io/badge/88%2525-Expert-00d4ff?style=for-the-badge
-Python/Django 🐍	Advanced	https://img.shields.io/badge/82%2525-Advanced-00ff88?style=for-the-badge
-PHP/Laravel 🌟	Pro	https://img.shields.io/badge/78%2525-Pro-ff00aa?style=for-the-badge
-🗄️ DATA REALMS 🗄️
-sql
-SELECT awesomeness 
-FROM arthur_skills 
-WHERE category IN ('databases', 'devops', 'magic')
-ORDER BY proficiency DESC;
-Database	Level	Progress
-MongoDB 🍃	Expert	https://img.shields.io/badge/85%2525-Expert-00ff88?style=for-the-badge
-PostgreSQL 🐘	Advanced	https://img.shields.io/badge/80%2525-Advanced-00d4ff?style=for-the-badge
-MySQL 🐬	Pro	https://img.shields.io/badge/75%2525-Pro-ffaa00?style=for-the-badge
-🃏 WILD CARDS & DEV OPS 🃏
-<div align="center">
-https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
-https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-
-</div>
-🎯 QUEST LOG: LEVELING UP TO LEGENDARY 🎯
-<div align="center">
-🚀 CURRENT EXPEDITIONS
-Mission	Status	Progress
-Mobile Mayhem 📱	In Progress	https://img.shields.io/badge/45%2525-In_Progress-ff00aa?style=for-the-badge
-Desktop Domination 🖥️	Learning	https://img.shields.io/badge/30%2525-Learning-00d4ff?style=for-the-badge
-Cloud Sovereignty ☁️	Advanced	https://img.shields.io/badge/60%2525-Advanced-00ff88?style=for-the-badge
-</div>
-python
-# My Learning Algorithm
-def learn_technology(tech):
-    while not mastered(tech):
-        build_projects(tech)
-        break_things(tech)
-        fix_things(tech)
-    return f"🎉 {tech} Mastered!"
-
-current_quests = ["React Native", ".NET MAUI", "Cloud Architecture"]
-for quest in current_quests:
-    print(learn_technology(quest))
-🏆 DIGITAL TROPHY CASE 🏆
-<div align="center">
-✨ FEATURED CREATIONS
-Project	Status	Tech Stack	Description
-Project Alpha 🧪	https://img.shields.io/badge/%F0%9F%9A%A7-Building-orange?style=flat-square	Full-Stack MERN	Portfolio meets mad science lab
-Mobile Prototype 📱	https://img.shields.io/badge/%F0%9F%94%AE-Planning-purple?style=flat-square	React Native	Uber for interdimensional travel
-Desktop Delight 🖥️	https://img.shields.io/badge/%F0%9F%92%A1-Ideating-yellow?style=flat-square	.NET MAUI	Productivity hacks for time lords
-🔮 More magical creations brewing in the cauldron...
-
-</div>
-📊 BATTLE STATS & ACHIEVEMENTS 📊
-<div align="center"><!-- GitHub Stats --><img src="https://github-readme-stats.vercel.app/api?username=arthurweale&show_icons=true&theme=radical&border_color=00d4ff&bg_color=0d1117&title_color=00ff88&icon_color=ff00aa" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurweale&layout=compact&theme=radical&border_color=00d4ff&bg_color=0d1117&title_color=00ff88" width="48%"/><!-- Streak Stats --><img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurweale&theme=radical&border=00d4ff&background=0d1117&ring=ff00aa&fire=00ff88&currStreakLabel=00d4ff" width="98%"/></div>
-🌐 CONNECT & CONQUER TOGETHER 🌐
-<div align="center">
-📡 TRANSMISSION FREQUENCIES
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-💌 COLLABORATION INVITATION
-javascript
-if (you.arePassionate && you.loveToBuild) {
-    await arthur.collaborate(you);
-    console.log("🚀 Let's create something legendary!");
-}
-</div>
-<div align="center">
-⚠️ DISCLAIMER OF AWESOMENESS ⚠️
-This README is powered by:
-
-☕ Infinite coffee reserves
-
-🌙 Midnight coding sessions
-
-🎨 Aesthetic obsession
-
-💫 Pure developer madness
-
-Warning: Exposure to this profile may cause sudden urges to:
-
-Build revolutionary apps
-
-Learn new technologies
-
-Create digital magic
-
-Change the world through code
+# 💫 About Me:
+Hi! I’m Arthur, a passionate software developer from Zimbabwe 🌍, currently pursuing an Associate Degree in Web & Computer Programming and working toward my Bachelor’s in Software Development through BYU–Idaho 🎓.<br><br>I love building real-world software 💻 and learning modern web technologies. I’m hands-on with TypeScript, React, Next.js, Tailwind CSS, and Postgres ⚡, and I enjoy tackling challenging problems and exploring innovative solutions 🚀.<br><br>I’m open to remote work 🌐 and happy to adapt to different time zones 🕒 to collaborate with teams across the globe. My goal is to turn ideas into code and contribute meaningfully while growing as a developer 🌱.
 
 
-Arthur Weale © 2025 – Digital rights reserved, but collaboration always welcome! 🤝
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arthur-Weale&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arthur-Weale&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Weale&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-https://komarev.com/ghpvc/?username=arthurweale&color=00ff88&style=for-the-badge&label=DIGITAL+EXPLORERS
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arthur-Weale&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-"Code is poetry, and I'm writing epic poems across every platform." ✨
+---
+[![](https://visitcount.itsvg.in/api?id=Arthur-Weale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-<div align="center">
-🎮 PRESS START TO CONTINUE...
-bash
-# Clone the magic
-git clone https://github.com/arthurweale/legendary-projects.git
-
-# Join the adventure
-npm install awesomeness
-Ready to forge the future together? 🚀
-
-</div>
-Crafted with 💻, powered by ☕, and fueled by 🌟 dreams of digital domination.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
