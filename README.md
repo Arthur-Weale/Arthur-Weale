@@ -1,16 +1,22 @@
-🚀 ARTHUR WEALE: DIGITAL ALCHEMIST 🚀
-<div align="center"><!-- Matrix-style code rain effect -->
-text
+markdown
+# 🚀 ARTHUR WEALE: DIGITAL ALCHEMIST 🚀
+
+<div align="center">
 01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001
-<!-- Neon banner placeholder --><img src="https://via.placeholder.com/800x200/0d1117/00d4ff?text=CODE+WIZARD+IN+TRAINING" width="100%"/>
-https://img.shields.io/badge/Matrix-00d4ff?style=for-the-badge&logo=matrix&logoColor=white
-https://img.shields.io/badge/DIGITAL_ALCHEMIST-ff00aa?style=for-the-badge&logo=atom&logoColor=white
-https://img.shields.io/badge/FULL_STACK_SORCERER-00ff88?style=for-the-badge&logo=wizard&logoColor=white
+
+text
+
+[![Matrix](https://img.shields.io/badge/Matrix-00d4ff?style=for-the-badge&logo=matrix&logoColor=white)](https://)
+[![Digital Alchemist](https://img.shields.io/badge/DIGITAL_ALCHEMIST-ff00aa?style=for-the-badge&logo=atom&logoColor=white)](https://)
+[![Full Stack Sorcerer](https://img.shields.io/badge/FULL_STACK_SORCERER-00ff88?style=for-the-badge&logo=wizard&logoColor=white)](https://)
 
 </div>
-🌌 THE ORIGIN STORY 🌌
+
+## 🌌 THE ORIGIN STORY 🌌
+
 <div align="center">
-javascript
+
+```javascript
 class ArthurWeale extends Developer {
   constructor() {
     super("Digital Alchemist");
