@@ -1,22 +1,15 @@
-markdown
-# 🚀 ARTHUR WEALE: DIGITAL ALCHEMIST 🚀
-
+🚀 ARTHUR WEALE: DIGITAL ALCHEMIST 🚀
 <div align="center">
-01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001
-
 text
-
-[![Matrix](https://img.shields.io/badge/Matrix-00d4ff?style=for-the-badge&logo=matrix&logoColor=white)](https://)
-[![Digital Alchemist](https://img.shields.io/badge/DIGITAL_ALCHEMIST-ff00aa?style=for-the-badge&logo=atom&logoColor=white)](https://)
-[![Full Stack Sorcerer](https://img.shields.io/badge/FULL_STACK_SORCERER-00ff88?style=for-the-badge&logo=wizard&logoColor=white)](https://)
+01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001
+https://img.shields.io/badge/Matrix-00d4ff?style=for-the-badge&logo=matrix&logoColor=white
+https://img.shields.io/badge/DIGITAL_ALCHEMIST-ff00aa?style=for-the-badge&logo=atom&logoColor=white
+https://img.shields.io/badge/FULL_STACK_SORCERER-00ff88?style=for-the-badge&logo=wizard&logoColor=white
 
 </div>
-
-## 🌌 THE ORIGIN STORY 🌌
-
+🌌 THE ORIGIN STORY 🌌
 <div align="center">
-
-```javascript
+javascript
 class ArthurWeale extends Developer {
   constructor() {
     super("Digital Alchemist");
@@ -39,41 +32,43 @@ class ArthurWeale extends Developer {
 ⚡ WEAPONS OF MASS CREATION ⚡
 <div align="center">
 🎨 FRONTEND FRENZY 🎨
-Technology	Proficiency	Vibe
-React ⚛️	https://progress-bar.xyz/90/?title=Expert&color=00d4ff	Building UIs at lightspeed
-Vue.js 🌿	https://progress-bar.xyz/80/?title=Advanced&color=00ff88	Reactive elegance personified
-HTML/CSS/JS 🛠️	https://progress-bar.xyz/95/?title=Master&color=ff00aa	Web's holy trinity, perfected
-Tailwind CSS 💨	https://progress-bar.xyz/85/?title=Advanced&color=ffaa00	Utility-first styling supremacy
+Technology	Level	Progress
+React ⚛️	Expert	https://img.shields.io/badge/90%2525-Expert-00d4ff?style=for-the-badge
+Vue.js 🌿	Advanced	https://img.shields.io/badge/80%2525-Advanced-00ff88?style=for-the-badge
+HTML/CSS/JS 🛠️	Master	https://img.shields.io/badge/95%2525-Master-ff00aa?style=for-the-badge
+Tailwind CSS 💨	Advanced	https://img.shields.io/badge/85%2525-Advanced-ffaa00?style=for-the-badge
 🛡️ BACKEND BOSS MODE 🛡️
-Technology	Proficiency	Vibe
-Node.js 🚀	https://progress-bar.xyz/88/?title=Expert&color=00d4ff	Event-driven async madness
-Python/Django 🐍	https://progress-bar.xyz/82/?title=Advanced&color=00ff88	Clean & powerful backend magic
-PHP/Laravel 🌟	https://progress-bar.xyz/78/?title=Pro&color=ff00aa	Elegant backend symphonies
+Technology	Level	Progress
+Node.js 🚀	Expert	https://img.shields.io/badge/88%2525-Expert-00d4ff?style=for-the-badge
+Python/Django 🐍	Advanced	https://img.shields.io/badge/82%2525-Advanced-00ff88?style=for-the-badge
+PHP/Laravel 🌟	Pro	https://img.shields.io/badge/78%2525-Pro-ff00aa?style=for-the-badge
 🗄️ DATA REALMS 🗄️
 sql
 SELECT awesomeness 
 FROM arthur_skills 
 WHERE category IN ('databases', 'devops', 'magic')
 ORDER BY proficiency DESC;
-Database	Status	Specialty
-MongoDB 🍃	https://progress-bar.xyz/85/?title=Expert&color=00ff88	Document wizardry
-PostgreSQL 🐘	https://progress-bar.xyz/80/?title=Advanced&color=00d4ff	Relational mastery
-MySQL 🐬	https://progress-bar.xyz/75/?title=Pro&color=ffaa00	Battle-tested queries
+Database	Level	Progress
+MongoDB 🍃	Expert	https://img.shields.io/badge/85%2525-Expert-00ff88?style=for-the-badge
+PostgreSQL 🐘	Advanced	https://img.shields.io/badge/80%2525-Advanced-00d4ff?style=for-the-badge
+MySQL 🐬	Pro	https://img.shields.io/badge/75%2525-Pro-ffaa00?style=for-the-badge
 🃏 WILD CARDS & DEV OPS 🃏
 <div align="center">
 https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
 https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
+https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
 
 </div>
 🎯 QUEST LOG: LEVELING UP TO LEGENDARY 🎯
 <div align="center">
 🚀 CURRENT EXPEDITIONS
-Mission	Status	Tech Stack	Progress
-Mobile Mayhem 📱	https://progress-bar.xyz/45/?title=In+Progress&color=ff00aa	React Native, Flutter	Conquering cross-platform
-Desktop Domination 🖥️	https://progress-bar.xyz/30/?title=Learning&color=00d4ff	.NET, MAUI, Electron	Building desktop empires
-Cloud Sovereignty ☁️	https://progress-bar.xyz/60/?title=Advanced&color=00ff88	AWS, Azure, GCP	Mastering the cloud realms
+Mission	Status	Progress
+Mobile Mayhem 📱	In Progress	https://img.shields.io/badge/45%2525-In_Progress-ff00aa?style=for-the-badge
+Desktop Domination 🖥️	Learning	https://img.shields.io/badge/30%2525-Learning-00d4ff?style=for-the-badge
+Cloud Sovereignty ☁️	Advanced	https://img.shields.io/badge/60%2525-Advanced-00ff88?style=for-the-badge
 </div>
 python
 # My Learning Algorithm
@@ -91,9 +86,9 @@ for quest in current_quests:
 <div align="center">
 ✨ FEATURED CREATIONS
 Project	Status	Tech Stack	Description
-Project Alpha 🧪	🚧 Building	Full-Stack MERN	Portfolio meets mad science lab
-Mobile Prototype 📱	🔮 Planning	React Native	Uber for interdimensional travel
-Desktop Delight 🖥️	💡 Ideating	.NET MAUI	Productivity hacks for time lords
+Project Alpha 🧪	https://img.shields.io/badge/%F0%9F%9A%A7-Building-orange?style=flat-square	Full-Stack MERN	Portfolio meets mad science lab
+Mobile Prototype 📱	https://img.shields.io/badge/%F0%9F%94%AE-Planning-purple?style=flat-square	React Native	Uber for interdimensional travel
+Desktop Delight 🖥️	https://img.shields.io/badge/%F0%9F%92%A1-Ideating-yellow?style=flat-square	.NET MAUI	Productivity hacks for time lords
 🔮 More magical creations brewing in the cauldron...
 
 </div>
